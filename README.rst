@@ -1,5 +1,13 @@
 ITKWavelet
-=================
+==========
+
+.. image:: https://github.com/InsightSoftwareConsortium/ITKWavelet/actions/workflows/build-test-package.yml/badge.svg
+    :target: https://github.com/InsightSoftwareConsortium/ITKWavelet/actions/workflows/build-test-package.yml
+    :alt: Build Status
+
+.. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
+    :target: https://github.com/InsightSoftwareConsortium/ITKWavelet/blob/master/LICENSE
+    :alt: License
 
 Incomplete / Work in progress.
 
@@ -14,15 +22,6 @@ If you need wavelets in 2D or 3D with a Steerable Pyramid, check my ITK External
 Dev history on `fork ITK branch
 <https://github.com/phcerdan/ITK/tree/wavelet>`_
 
-
-.. .. image:: https://circleci.com/gh/InsightSoftwareConsortium/ITKModuleTemplate.svg?style=shield
-..     :target: https://circleci.com/gh/InsightSoftwareConsortium/ITKModuleTemplate
-..
-.. .. image:: https://travis-ci.org/InsightSoftwareConsortium/ITKModuleTemplate.svg?branch=master
-..     :target: https://travis-ci.org/InsightSoftwareConsortium/ITKModuleTemplate
-..
-.. .. image:: https://img.shields.io/appveyor/ci/thewtex/itkmoduletemplate.svg
-..     :target: https://ci.appveyor.com/project/thewtex/itkmoduletemplate
 
 .. This is a module for the `Insight Toolkit (ITK) <http://itk.org>`_ for
 .. segmentation and registration. It is designed to work with the ITKv4 modular
